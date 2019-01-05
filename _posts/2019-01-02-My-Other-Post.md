@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Another Post
+category: Testing
 tags: Trash
 ---
 
