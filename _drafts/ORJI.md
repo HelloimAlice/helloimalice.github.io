@@ -10,10 +10,10 @@ From *Process Consulting Volume II* by Edgar H. Schein.
 The most important thing for managers or consultants to understand is what goes on inside their own heads.
 
 Our nervous system is simultaneously a data gathering system, a processing system, and a proactive managing system. That is we:
-* Observe
-* React emotionally to what we have observed
-* Analyze, process and make judgements based on observations and feelings
-* we behave overtly in order to make something happen, we intervene
+* *Observe*
+* *React* emotionally to what we have observed
+* Analyze, process and make *judgements* based on observations and feelings
+* we behave overtly in order to make something happen, we *intervene*
 
 Although we can lay this out in a sequential process as shown in the figure, real intrapsychic processes don’t occur in such a simple, logical sequence. The model helps us simplify such processes.
 
@@ -22,8 +22,8 @@ Although we can lay this out in a sequential process as shown in the figure, rea
 ### Observation
 * Observation should be the accurate registering through all of our senses of what is actually occurring in the environment.
 * However, psychoanalytic theory has shown us how extensive perceptual distortion can be. 
-    * Denial- refusing to see certain categories of information as they apply to ourselves
-    * Projection- seeing in others what is actually operating in ourselves
+    * *Denial*- refusing to see certain categories of information as they apply to ourselves
+    * *Projection*- seeing in others what is actually operating in ourselves
 * One of the most difficult tasks is suspending pre-judgement, to become acquainted with one’s own defense mechanisms, to correct for expectations and preconceptions so as to be able to “see” and “hear” more accurately what is going on.
 
 ### Reaction
